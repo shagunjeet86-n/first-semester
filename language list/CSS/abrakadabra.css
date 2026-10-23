@@ -1,0 +1,21 @@
+tr{
+    background-color: #030318;
+    font-style:italic;
+}
+h1{
+    color:rgb(93, 128, 42)
+
+}
+th{
+    color:rgb(243, 205, 35)
+
+}
+td{
+    color:rgb(219, 131, 145)
+}
+th{
+    color:rgb(144, 240, 47);
+}
+caption{
+    color:rgb(170, 27, 27);
+}

@@ -1,0 +1,58 @@
+body{
+    border: 4px solid black;
+    background-color: gray;
+    padding: 20px;
+    
+}
+h1{
+    text-align:left;
+    background-color: rgb(224, 85, 224);
+}
+
+.container{
+    margin: auto;
+    
+}
+
+.card{
+    padding: 15px,20px;
+
+    
+}
+
+.header{
+    background-color: rgb(128, 221, 224);
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    
+
+}
+.photo-div {
+    
+    width: 50%;
+    height: 50%;
+    /* padding: 100%; */
+}
+
+.skills{
+    background-color: greenyellow;
+    
+
+}
+.education{
+    background-color: greenyellow;
+}
+.contact{
+    background-color: cornflowerblues;
+}
+p2{
+    background-color: rgb(243, 104, 104);
+}
+.main{
+    background-color: rgb(253, 37, 37);
+    color: rgb(6, 50, 88);
+}
+.achivment{
+    background-color: greenyellow;
+    
+}

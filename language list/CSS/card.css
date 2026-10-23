@@ -1,0 +1,30 @@
+
+*{
+    margin-top:5px;
+}
+.border{
+    border: 2px solid black;
+    padding:20px;
+}
+.Art{
+    height: 300px;
+    background-size:  contain;
+    background-repeat: no-repeat;
+    background-image: url("../my-website/images/panda.jpg");
+}
+body{
+    margin:10px;
+    background-color: rgb(110, 197, 238);
+}
+button{
+    background-color: rgb(134, 128, 131);
+
+}
+p1{
+    color: rgb(240, 164, 221);
+    background-color: rgb(20, 1, 1);
+}
+p{
+    color: rgb(247, 167, 207);
+    background-color: black;
+}
