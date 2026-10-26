@@ -1,0 +1,39 @@
+.card{
+    background-color: rgb(9, 14, 1);
+    color: rgb(207, 173, 86);
+    padding: 10px 20px;
+    border: 3px;
+    border-color: rgb(207, 173, 86);
+    border-radius: 5%;
+}
+.mehendi{
+    margin: 30px;
+    padding: 40px 20px 40px 20px;
+    text-align: center;
+}
+.servises{
+    text-align: center;
+    padding: 30px 50px;
+    
+}
+.add{
+    text-align: center;
+    padding: 20px 20px ;
+}
+.address {
+   
+    text-align: center ;
+    margin-bottom: 40px;
+}
+body{
+    border-width: 5px;
+    border-color: rgb(207, 173, 86);
+}
+.image{
+    width: 30%;
+    height: 50%;
+    margin: 10px auto;
+    /* display: flex;
+    justify-content: center; */
+    
+}
