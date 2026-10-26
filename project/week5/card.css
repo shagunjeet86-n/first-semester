@@ -1,4 +1,5 @@
-.card{
+
+    .card{
     background-color: rgb(9, 14, 1);
     color: rgb(207, 173, 86);
     padding: 10px 20px;
@@ -36,4 +37,5 @@ body{
     /* display: flex;
     justify-content: center; */
     
+}
 }
