@@ -1,0 +1,42 @@
+section{
+    background-color: rgb(194, 191, 191);
+    border-radius: 5%;
+    margin: 5px;
+}
+body{
+    border: 2px solid black;
+    border-radius: 5%;
+    background-color: rgb(194, 191, 191);
+
+}
+.career{
+    margin-left: 20px;
+}
+.per{
+    margin-left: 3%;
+
+}
+.h1{
+    margin-left: 10%;
+   
+}
+.Name{
+    margin-left: 3%;
+}
+.Skills{
+    margin-left:3% ;
+}
+.academic{
+    margin-left: 3%;
+}
+.Address{
+    margin-left: 3%;
+}
+img{
+    margin-left:3%;
+    padding:3%;
+    border-image-width: 100px;
+}
+.date{
+    margin-left: 3%;
+}
