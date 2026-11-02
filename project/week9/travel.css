@@ -19,12 +19,18 @@
             color: white;
             margin: 0 8px;
             text-decoration: none;
+            background: linear-gradient(
+                90deg,
+                rgb(7, 62, 66),
+                rgb(171, 226, 171)
+
+            );
         }
 
         .hero {
             padding: 40px 16px;
             text-align: center;
-            background: #2f5bea;
+            /* background: #178344; */
             color: white;
         }
 
@@ -47,7 +53,13 @@
         }
 
         .box {
-            background: #eef2ff;
+            background:linear-gradient(
+                90deg,
+                rgb(131, 197, 9),
+                rgb(222, 235, 152),
+                rgb(113, 219, 158)
+                
+            );
             padding: 20px;
             border-radius: 10px;
             text-align: center;
@@ -58,6 +70,13 @@
             color: white;
             text-align: center;
             padding: 16px;
+            background : linear-gradient(
+                100deg,
+                rgb(3, 14, 32),
+                rgb(16, 116, 16),
+                rgb(2, 31, 2)
+
+            )
         }
 
         @media (min-width: 768px) {
@@ -82,4 +101,13 @@
                 padding: 40px;
             }
         }
-    
+    body{
+        background:linear-gradient(
+            120deg,
+            rgb(11, 145, 145),
+            rgb(104, 105, 11)
+        )
+    }
+    title{
+        background-color:#12203a
+    }
